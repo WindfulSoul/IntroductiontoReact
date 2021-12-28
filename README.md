@@ -1,3 +1,9 @@
+#This is the first React project that I worked on. It is a party-item adder where users can add what type of itmes they will be bringing to the party, and it lays out a simple structure of basic HTML and CSS grid to accentuate the essential texts that are categorized in order. 
+
+#An introduction to React requires the understanding of Javascript, and this project gave me in-depth insights into how React operates and it can be used on the User Interface side of web development. I grasped the concept of JSX files, usage of components, structure of React files, and how to import and export components. The biggest takeaway was the React Hooks, which shaped up the efficient and reliable sources of Javascript codes, rathen than being redundant codes that can not be replicated. 
+
+#I learned the basic concepts of React through this project, and more React projects will be on their way. 
+
 ![](images/image.png)
 
 # Getting Started with Create React App
